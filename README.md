@@ -11,7 +11,7 @@
 
 `Turma J`
 
-**Descrição do Projeto: Sistema de Serviços de Teste de Software**
+** Descrição do Projeto: Sistema de Serviços de Teste de Software **
 
 **Visão Geral:**
 Este projeto tem como objetivo desenvolver um Sistema para oferecer Serviços de Teste de Software.
