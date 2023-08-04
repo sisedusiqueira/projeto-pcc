@@ -23,7 +23,7 @@ Este projeto está licenciado sob a [MIT License](https://github.com/sisedusique
 
 - Lizandra Siqueira dos Anjos
 
-## Orientador
+## Orientador(a)
 
 - Jerusilene
 
