@@ -19,7 +19,7 @@ Este projeto está licenciado sob a [MIT License](https://github.com/sisedusique
 
 ## Orientador(a)
 
-- Jerusilene
+- Jerusilene Araujo
 
 ## Instruções de utilização
 - Acesse [http://servicosdetestedesoftware-001.com/](http://emissifb-001.com/)
