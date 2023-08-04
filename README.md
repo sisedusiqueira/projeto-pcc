@@ -16,6 +16,9 @@
 **Visão Geral:**
 Este projeto tem como objetivo desenvolver um Sistema para oferecer Serviços de Teste de Software.
 
+**Licença:** 
+Este projeto está licenciado sob a MIT License. Leia o arquivo LICENSE para obter mais informações.
+
 ## Integrantes
 
 - Lizandra Siqueira dos Anjos
