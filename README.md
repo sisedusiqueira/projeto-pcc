@@ -15,7 +15,11 @@ Este projeto está licenciado sob a [MIT License](https://github.com/sisedusique
 
 ## Integrantes
 
+- Cauã Costa Silva
+- Francisco das Chagas Costa Silva
 - Lizandra Siqueira dos Anjos
+- Matheus Paulo Pereira da Silva
+- Yuri Santos Souza
 
 ## Orientador(a)
 
