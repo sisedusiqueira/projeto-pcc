@@ -16,10 +16,7 @@
 **Visão Geral:**
 Este projeto tem como objetivo desenvolver um Sistema para oferecer Serviços de Teste de Software para empresas.
 
-
-
-
-
+/n/n/n
 
 **Licença:**
 Este projeto está licenciado sob a [MIT License](https://github.com/sisedusiqueira/projeto-1M1/blob/main/license.txt). Leia o arquivo LICENSE para obter mais informações.
