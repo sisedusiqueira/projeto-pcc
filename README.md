@@ -1,7 +1,5 @@
 # PROJETO CONCLUSÃO DE CURSO
 # TESTE DE SOFTWARE
-- [Trabalho Digital PDF]()
-  
 ![image](https://github.com/sisedusiqueira/projeto-pcc/assets/138258723/927ce608-52af-496e-8048-7c6eccb31115)
 
 `Técnico em Informática`
