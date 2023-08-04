@@ -16,14 +16,6 @@
 **Visão Geral:**
 Este projeto tem como objetivo desenvolver um Sistema para oferecer Serviços de Teste de Software.
 
-**Instruções de Uso:**
-Para utilizar o sistema, acesse a aplicação através de um navegador web.
-
-**Contribuições e Feedback:**
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, enviar sugestões ou enviar pull requests. Se encontrar algum problema ou tiver algum feedback, por favor, nos informe através das issues.
-
-**Agradecimentos:**
-Agradecemos a todos os envolvidos neste projeto, bem como a Escola Técnica de Ceilândia, pela oportunidade de desenvolver esta solução. Esperamos que o Serviços de Teste de Software traga benefícios significativos para a comunidade acadêmica, tornando o teste de software ágil e eficiente.
 
 **Licença:**
 Este projeto está licenciado sob a [MIT License](https://github.com/sisedusiqueira/projeto-1M1/blob/main/license.txt). Leia o arquivo LICENSE para obter mais informações.
