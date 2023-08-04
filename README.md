@@ -11,12 +11,10 @@
 
 `Turma J`
 
-**Descrição do Projeto: Sistema de Serviços de Teste de Software**
+**Descrição do Projeto: Sistema de Serviços de Teste de Software**<br>
 
 **Visão Geral:**
-Este projeto tem como objetivo desenvolver um Sistema para oferecer Serviços de Teste de Software para empresas.
-
-<br><br><br>
+Este projeto tem como objetivo desenvolver um Sistema para oferecer Serviços de Teste de Software para empresas.<br>
 
 **Licença:**
 Este projeto está licenciado sob a [MIT License](https://github.com/sisedusiqueira/projeto-1M1/blob/main/license.txt). Leia o arquivo LICENSE para obter mais informações.
